@@ -1,0 +1,15 @@
+.Header {
+    background: rgb(255, 255, 180);
+    width: 100%;
+    padding: 1rem;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
+
+.Header img {
+    width: 3rem;
+    height: 3rem;
+}
